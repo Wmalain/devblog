@@ -1,0 +1,6 @@
+Blog lié aux développeurs.
+
+1. Base de données de -> classe lié a la base de données
+2. Articles -> classe lié aux Articles
+3. commentaires -> classe lié aux commentaires
+4. Mettre en place une architecture MVC (Model Viewer Controller)
